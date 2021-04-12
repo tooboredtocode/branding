@@ -4,6 +4,6 @@
 
 ## Legal
 
-Copyright (C) [year] tooboredtocode, Bored Corp.
+Copyright (c) [year] tooboredtocode, Bored Corp.
 
 [license]
