@@ -1,0 +1,3 @@
+Copyright (c) $today.year. tooboredtocode, Bored Corp.
+
+[license]
